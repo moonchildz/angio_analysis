@@ -22,6 +22,8 @@ numpy:1.19.0
 ```
 If error occurs during installation, please refer the git of yanglf1121.
 
+Also, PLEASE MAKE SURE THAT THE IMAGE YOU WANT TO ANALYZE HAS NUCLEI INFORMATION ON BLUE CHANNEL, AND VASCULAR INFORMATION ON GREEN AND RED CHANNEL. 
+
 
 3) run main_ui.py to see the interface: 
  ![image](https://user-images.githubusercontent.com/66664844/222650817-4a5f24ad-edaa-4e54-a22c-576de61903c7.png)
